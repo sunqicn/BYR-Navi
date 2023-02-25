@@ -4,6 +4,6 @@ google:
 matomo:
   url: https://vps.irockbunny.com/analytics/
   domains:
-  - "*.byr-navi.com"
+  - "*.54ai.top"
   site_id: 
   token: b20d2b5002a1241da41853f33eccccdd

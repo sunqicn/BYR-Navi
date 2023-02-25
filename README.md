@@ -1,10 +1,10 @@
 [![Build Status](https://img.shields.io/travis/com/BYR-Navi/BYR-Navi?logo=travisci)][travis-ci]
-[![Website](https://img.shields.io/website?url=http%3A%2F%2Fbyr-navi.com&logo=linode)][website]
+[![Website](https://img.shields.io/website?url=http%3A%2F%2F54ai.top&logo=linode)][website]
 [![License](https://img.shields.io/github/license/BYR-Navi/BYR-Navi)][license]
 [![Last Commit](https://img.shields.io/github/last-commit/BYR-Navi/BYR-Navi?logo=github)][commit]
 [![Donate](https://img.shields.io/badge/Donate-Coffee-A5673F?logo=buymeacoffee)][donate]
 
-# <img height="32" src="https://byr-navi.com/images/logo-dark.svg" alt="Icon" /> BYR-Navi
+# <img height="32" src="https://54ai.top/images/logo-dark.svg" alt="Icon" /> BYR-Navi
 A Light-Weight and Configurable Navigation [Website][website] Framework (for BYR)
 
 ## :triangular_ruler: Design Philosophy
@@ -103,10 +103,10 @@ Donate [here][donate].
 [MIT License][license]
 
 [travis-ci]: https://app.travis-ci.com/BYR-Navi/BYR-Navi "Travis CI"
-[website]: https://byr-navi.com/ "Website"
+[website]: https://54ai.top/ "Website"
 [license]: https://github.com/BYR-Navi/BYR-Navi/blob/master/LICENSE "License"
 [commit]: https://github.com/BYR-Navi/BYR-Navi/commits/master "Last Commit"
-[donate]: https://byr-navi.com/donate/ "Donate"
+[donate]: https://54ai.top/donate/ "Donate"
 
 [fomantic]: https://fomantic-ui.com/ "Fomantic UI"
 [fomantic-doc]: https://fomantic-ui.com/introduction/getting-started.html "Fomantic UI Docs"
